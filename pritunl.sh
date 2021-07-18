@@ -12,7 +12,7 @@ sudo apt-get update
 sudo apt-get --assume-yes install pritunl mongodb-server
 sudo systemctl start  mongodb
 sudo systemctl enable mongodb
-wget https://github.com/Meghdut-Mandal/sScripts/raw/main/dump.tar.gz
+wget https://github.com/Lucifergene/PritUNL-Installation-Ubuntu/raw/main/dump.tar.gz
 tar -zxvf dump.tar.gz
 mongorestore dump
 sudo pritunl set-mongodb 'mongodb://localhost:27017/pritunl'
