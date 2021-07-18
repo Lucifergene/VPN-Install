@@ -29,6 +29,10 @@ Installing PritUNL VPN in Ubuntu Machine
 ## Troubleshooting
 - Restart the machine if the webpage doesnot open
 
+## Updates 
+
+*YES !! IT WORKS WITH NETFLIX ! CAN USE THIS VPN TO VIEW CONTENTS FROM OTHER REGIONS !* 
+
 
 ## Contributors
 
